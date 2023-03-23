@@ -1,5 +1,6 @@
 # vue-post-app
-
+Простейшее SPA для отображения списка.
+Vue.js, Bootstrap, Vuex
 ## Project setup
 ```
 npm install
